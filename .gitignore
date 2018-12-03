@@ -6,7 +6,7 @@ multi-bleu.perl
 .idea
 *.sublime-*
 .DS_Store
-data/
+data/*
 EventTeller/
 log/
 # Byte-compiled / optimized / DLL files
