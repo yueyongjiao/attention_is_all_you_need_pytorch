@@ -50,7 +50,7 @@ def main():
             src_word2idx=preprocess_data['dict']['src'],
             tgt_word2idx=preprocess_data['dict']['tgt'],
             src_insts=test_src_insts),
-        num_workers=2,
+        #num_workers=2,
         batch_size=opt.batch_size,
         collate_fn=collate_fn)
 
