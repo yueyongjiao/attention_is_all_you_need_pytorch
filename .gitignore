@@ -6,6 +6,7 @@ multi-bleu.perl
 .idea
 *.sublime-*
 .DS_Store
+data/*
 data/
 EventTeller/
 lcsts/
